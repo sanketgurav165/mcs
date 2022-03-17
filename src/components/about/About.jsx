@@ -1,6 +1,6 @@
 import "./about.css";
 import Award from "../../img/award.png";
-import construction from "../../img/construction.jpg";
+import sample1 from "../../img/sample1.jpg";
 
 const About = () => {
   return (
@@ -9,7 +9,7 @@ const About = () => {
         <div className="a-card bg"></div>
         <div className="a-card">
           <img
-            src={construction}
+            src={sample1}
             alt="constructon not found"
             className="a-img"
           />

@@ -75,7 +75,7 @@ function Material() {
         Props
       </td>
       <td>
-      700 Nos
+      7000 Nos
       </td>
       
     </tr>

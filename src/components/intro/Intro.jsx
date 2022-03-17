@@ -20,7 +20,7 @@ const Intro = () => {
           </div>
           <p className="i-desc">
           MAULI CONSTRUCTIONS is a firm been formed for undertaking
-Civil & MEP engineering projects.The Company also undertakes
+Civil & MEP engineering projects.We are an well educated and technical team.The Company also undertakes
 Design & Build contracts including Structural & MEP design
 works with single point responsibility from Design, Approval and
 Scratch to Hand-over.

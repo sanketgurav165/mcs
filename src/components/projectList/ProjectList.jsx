@@ -14,11 +14,11 @@ company. This combined with a huge base of skilled workforce
 associated with the company, constantly strive for delivering the
 project on the parameters of Quality , Safety and Time.
         </p>
-        <h1>project List</h1>
+        <h1><strong>Project List</strong></h1>
       </div>
       <div className="pl-list">
         {projects.map((item) => (
-          <Project key={item.id} img1={item.img1} link1={item.link1} img2={item.img2} link2={item.link2} img3={item.img3} link3={item.link3} sitename={item.sitename1} />
+          <Project key={item.id} img1={item.img1} link1={item.link1} sitename={item.sitename1} />
         ))}
       </div>
     </div>

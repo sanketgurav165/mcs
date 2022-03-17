@@ -51,6 +51,10 @@ const Contact = () => {
               <img className="c-icon" src={Address} alt="" />
               Plot No-44, Shop No -1, Sr No.311/5, Sai Park, Lane No-04, Behind SilverStone Mall,Handewadi Chowk, Pune -411060
             </div>
+            <div className="cicon">
+            <a href="https://www.facebook.com/profile.php?id=100078916986845" class="fa fa-facebook">.</a>&nbsp;&nbsp;
+            <a href="mailto:mauliconstructions2016@gmail.com" class="fa fa-google">.</a>
+              </div>
           </div>
         </div>
         <div className="c-right">
